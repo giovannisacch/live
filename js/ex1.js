@@ -1,0 +1,1 @@
+console.log('fazendo o exercicio um')
